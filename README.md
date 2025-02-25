@@ -6,7 +6,7 @@ This project provides a web-based interface to visualize the status of ports on 
 - Display 24 GigabitEthernet ports in a 2-row layout (odd ports on top, even on bottom).
 - Show VLAN1 and FastEthernet0 separately.
 - Ports turn **green** if up, **red** if down.
-- Execute "show" CLI commands directly from the web interface.
+- Execute **"show"** CLI commands directly from the web interface.
 - Auto-refresh every 5 seconds to keep the status updated.
 
 ## Technologies Used
@@ -45,13 +45,16 @@ This project provides a web-based interface to visualize the status of ports on 
 
 ## Screenshots
 ### **Main Interface**
-![Main Interface](screenshots/main_interface.png)
+<img width="455" alt="Cisco_HTML_View" src="https://github.com/user-attachments/assets/0c798456-191c-4af6-843b-093e137bf040" />
+
 
 ### **Port Status Visualization**
-![Port Status](screenshots/port_status.png)
+<img width="437" alt="Cisco_Port_Status" src="https://github.com/user-attachments/assets/34af43ec-2cd6-45e8-97a5-1ba7b9d63303" />
+
 
 ### **CLI Command Execution**
-![CLI Execution](screenshots/cli_execution.png)
+<img width="340" alt="Cisco_Show_CLI" src="https://github.com/user-attachments/assets/37d906da-95a1-4e0d-a43d-bee3f291c4ab" />
+
 
 ## Future Enhancements
 - Add authentication for security.
